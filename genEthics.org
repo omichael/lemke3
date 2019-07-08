@@ -1,0 +1,16 @@
+#+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
+* intro
+** p265 middle localizing constitution of sexuality in practices of power-knowledge
+** p265 shift focus to genealogy of modern subject within modern state
+** p265 bottom sex is a point of departure for examining principles of subjectivity
+** p266 top considerable revision of the original plan--focus on new historical epoch, antiquity
+** p266 middle HoS books focus on processes of subjectivation and ethics
+** p267 middle 2 last volumes HoS add nuance and relativize the project
+** 267 fn Schmid "aesthetics of existence" counter to laws of normalization society
+* self
+* subjectivityExperience
+* moralityEthics
+
+
+
+
