@@ -1,59 +1,158 @@
 #+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
 * intro
 ** p284 middle
+"HoS confronts and rejects hypothesis that sexuality is prohibited and repressed."
 ** p285 top
+"moral prescriptions hardly differered among the Greeks and early
+Xtians."
+"fidelity in marriage is an expression of inner strength and outward
+proof of self control; same-sex practices between men as a source of
+moral apprehension; and the deep-seated connection between abstinence
+and achieving wisdom and truth."
 ** p286 top
+"quardri-thematics of sexual austerity"
+"disprove the thesis that sexual actions became subject of more and
+more repression over history"
 ** p286 middle
+"sexual themes or principles or notions "do not have the same place or
+same value" across cultures or histories"
 ** p286 bottom
+changes are not "in the code" but "ethics" which is relation to oneself.
 ** p287 top
+"Xtians took over many of the austere prescriptions already worked out
+by greeks and romans." but on bases of different ethics
 ** p287 middle
-** p287 bottom
-** p288 top
+self control counted as suggestions and recommendations; art of existence
+** p288 (begin 287 bottom) divide field of sex into 4 aspects of self-relation
+*** ethical substance
+*** mode of subjugation
+*** self-formative
+*** moral action
 ** p288 middle
+"2nd & 3rd volumes of HoS examine relations dependencies and
+independence through Greek and Roman society in order to offer a
+genealogy of the Xtian subject of desire."
 * ancientGreece
 ** p288 bottom
+"sex does not occupty the center of Greek moral reflections."
 ** p289 top
+not "modalities..object choices or the orientation of sedire" but
+"forms of relation tying" actions pleasures and desires together as unit
 ** p289 middle
+"intensity of practices"
+"neither the choice nor form" prove decisive
 ** p289 bottom
+no differentiation between "masculine sexuality and feminine sexuality" (or, for that matter
+hetero or homosexual dispositions) but active versus passive
+Moderation v. excess and passive v active are better valences
 ** p290 top
-** p290 middle
+"for a man.." excess and passivity were immoral
+sex possesses a low ontological quality...low ranking pleasure but
+very intense 
 ** p290 bottom
+"control and dominate" lusts
+cultivate a power relationship against oneself to assign pleasure a
+fitting place
 ** p291 top
+correct use of pleasure
 ** p291 middle
+analysis does not got from act to sexualityy "..from the subject as a sexual actor to the other areas of life in
+which he pursues his activity.
+*** pragmatically
+**** own body (dietetics)
+**** marriage and household (economics)
+**** love for boys (erotics)
+**** truth (philosophy)
 ** p291 bottom
+partnership in economics involved radical asymmetry
 ** p292 top
+mastery over himself showed that he was capable of ruling others
+the _social_ position of being a husband
 ** p293 top
+erotic love as a relationship to the truth, as philosophy
 ** p293 bottom
+being the lover means mastery of the truth; seeking to earn master's
+love takes the place of the boy's honour; "desiring soul" in Xtianity
 ** p294 top
+ideal of renouncing physical contact entirely; access to truth tied to
+renunciation of pleasure
 ** p294 middle
-** p294 bottom
+"the way one distributed (pleasures) one observed, in the hierarchy
+one respected." leads to the "maintenance and reproduction of an
+ontological order"
+** p294 bottom 
+"natural connection between the individual and the world;" there is no
+room to constitute self reflexively; as a subject
 * Roman
 ** p295 top
+"heightened value attached to spiritual enjoyment"
 ** p295 middle
+"universal rules of conduct came to hold sway."
+"varying and modulating the art of living"
 ** p296 top
+one must "take care of oneself"
 ** p296 middle 
+"general fragility of human body and its susceptibility to
+disturbances of function."; "the first signs of sex becoming pathologized
 ** p296 bottom
+sexual pursuits no longer counted as sign of activity; but passivity
+that overwhelms the subject
 ** p297 top
+marriage became a personal relationship
 ** p297 bottom
+culture of self is not a mirror of reality; but a reality in its own
+right
+culture/cultivation of self responded to consequences of social
+modifications; a new style of existence
 ** p298 middle 
+affirmation of connection between power over self and power over others
 ** p298 bottom
+both a 1.) basis for moral action 
 ** p299 top
+2.) conditions for wielding power
 ** p299 middle 
+personal ethics grew detached from social position and more
+imperatives of duty
 ** p300 top
+"governing oneself became a crucial political factor"
 ** p300 middle
+separate correct from false action; the new moral self-constitution
 * Christian
-** p300 bottom
+** p300 bottom 
+   hermenetics of desire
 ** p301 top
+desire hidden among the mysteries of the heart
 ** p301 middle
+how to diagnose truth and illusion
 ** p301 bottom
+ethical problematic is now a catalog of moral laws demanding strict observation
 ** p302 top
+Xtianity's novel concept is to invent morality as ethics via voluntary obedience
 ** p302 middle
+self represents a riddling text that demands constant interpretation
+via observation, decipherment, and verbalization
 ** p303 top
+Xtians examine "who they are" as individuals
 ** p303 middle
+self examination presupposes belief just as much as grasping truth
+demands purification of the soul.
+self is defined by a dangerous materiality, which demands constant supervision
 ** p303 bottom
+stop being attached to oneself not because self is illusion, but
+because self is much too real
 ** p304 middle
+shift away from relations to others and towards relation to oneself
+"subjectivation amounds to objectivation; incorporating the other into
+the self."
 ** p305 middle
+double relation to truth and power determines the meaning of
+subject--the product of Xtian experience; subject to someone else but
+also tied to one's own identity by conscience and self-knowledge.
+new configuration of subjectivity is new form of power
 ** p306 top
+necessary relation to oneslf in terms of the truth; technology of
+gov't "conducts"
+subjects by means of the truth
 
 
 
