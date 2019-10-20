@@ -1,5 +1,74 @@
 #+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
 * intro
+** Weber
+** p308 top
+** p308 middle
+** p309 top
 * unholy
+** p309 middle
+** p310 middle
+** p311 top
+** p311 middle
+** p311 bottom
+** p311 fn
+** p312 top
+** p312 middle
+** p312 bottom
+** p313 middle
+** p314 fn
+** p315 top
 * conductingConducts
+** p316 top
+** p316 middle
+** p317 power relations involve
+*** consent
+*** force
+** p318 top
+** p318 middle
+** p318 bottom
+** p319top
+* power and domination
+** p319 middle
+** p319 bottom
+** p320 top
+** p320 middle
+** p320 bottom
+** p321 top
+** p321 middle
+** p322 top
+** p322 middle
+** p322 bottom
+** p323 top
+** p323 middle
+* freedom and forms of resistance
+** p324top
+** p324 middle
+** p324 bottom
+** p325 top
+** p325 middle
+** p326 top
+** p326 fn
+** p327 top
+** p327 bottom
+** p328 top
+** p328 middle
+** p328 bottom
+** p329 middle
+** p329 bottom
 * iran
+** collective will
+** spirituality
+*** p335 middle
+*** p335 bottom
+*** p336 top
+*** p336 middle
+*** p336 fn
+*** p337 top
+** without a spirit
+*** p337 bottom
+*** p338 middle
+*** p339 top
+*** p339 middle
+*** p339 bottom
+*** p340 top
+*** p340 middle

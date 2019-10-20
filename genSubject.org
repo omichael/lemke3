@@ -1,8 +1,59 @@
 #+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
 * intro
+** p284 middle
+** p285 top
+** p286 top
+** p286 middle
+** p286 bottom
+** p287 top
+** p287 middle
+** p287 bottom
+** p288 top
+** p288 middle
 * ancientGreece
+** p288 bottom
+** p289 top
+** p289 middle
+** p289 bottom
+** p290 top
+** p290 middle
+** p290 bottom
+** p291 top
+** p291 middle
+** p291 bottom
+** p292 top
+** p293 top
+** p293 bottom
+** p294 top
+** p294 middle
+** p294 bottom
 * Roman
+** p295 top
+** p295 middle
+** p296 top
+** p296 middle 
+** p296 bottom
+** p297 top
+** p297 bottom
+** p298 middle 
+** p298 bottom
+** p299 top
+** p299 middle 
+** p300 top
+** p300 middle
 * Christian
+** p300 bottom
+** p301 top
+** p301 middle
+** p301 bottom
+** p302 top
+** p302 middle
+** p303 top
+** p303 middle
+** p303 bottom
+** p304 middle
+** p305 middle
+** p306 top
 
 
 

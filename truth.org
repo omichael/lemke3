@@ -1,6 +1,64 @@
 #+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
 * intro
+** self freedom p341 top
+** p341 middle
+** p342 top
+** p342 middle
 * politics
+** p342 bottom
+** p343 top
+** p343 middle
+** p343 bottom
+** p344 top
+** p344 middle
+** p345 fn top
+** p345 fn middle
+** p345 fn bottom
+** p346 top
+** p346 middle
+** p346 bottom
 * nominalism
+** p346 bottom
+** p347 top
+** p347 middle
+** p347 bottom
+** p348 top
+** p348 middle
+** p348 bottom
+** p349 misunderstandings of game of truth
+*** regularity and order
+*** discursive practices
+*** possible truths
+** p350 middle
+** p350 bottom
+** p351 middle
+** p352 middle
+** p353 top
+** p354 top
+** p354 middle
+** p354 bottom
 * problematization
+** p354 bottom
+** p355 top
+** p355 middle
+** p356 top
+** p356 middle
+** p356 bottom
+** p357 top
+** p357 middle
+** p357fn
+** p358 top
 * fictionConstruction
+** p358 middle
+** p358 fn
+** p359 top
+** p359 middle
+** p359 bottom
+** p360 top
+** p360 middle
+** p360 bottom
+** p361 top
+** p361 fn
+** p361fn
+** p361 bottom
+** p362 top
