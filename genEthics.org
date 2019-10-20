@@ -73,7 +73,34 @@
 *** real behaviour
 *** rules and values which define + or - content
 *** ways of conducting/moral subjectivity
-** 
+** p280 top
+"any fixed moral prescription admits different modes of self-relation.
+The latter constitute what F calls ethics:
+'the elaboration of a form of relation to self that enables an individual
+to fashion himself into a subject of ethical conduct.""
+
+** p280 middle
+*** two axes of moral experience
+**** codes
+**** ethics
+** p281 top
+"Moral laws do not simply confront the moral subject from without; they cannot simply be imposed...
+they must be willed and accepted, known and lived."
+"F is interested in showing how morality takes on prohibitions and systems of obligation."
+** p281 bottom
+"only when morality and ethics do not constitute an analytical unit can one examine the
+various forms their relationsh have assumed: drawing a distinction between them as separate categories
+enables one to reconstruct why, historically, they have counted as one and the same" 
+** p282 top
+"For F, no essential subjectivity exists..."
+"there is no subject per se different from the historical circumstances of its realization."
+** p282 middle
+"historicization (provides) the key to a reality that is no longer
+defined as the particular instantiation of something more general..."
+** p283 top
+also "encompassing a universality inasmuch as it reveals it to be a singular form."
+therefore genealogy of ethics is simultaneously the genealogy of the subject."
+
 
 
 
