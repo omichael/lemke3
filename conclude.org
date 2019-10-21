@@ -1,0 +1,44 @@
+rorty, 1981:
+
+#+BEGIN_QUOTE
+"Foucault offers the two things which people want from a philosopher: a
+view about what values to place on current knowledge-claims, and hints
+about how to change the world. More specifically, he combines a
+sceptical judgment about the nature of science with concrete
+suggestions about how power might be taken from those who presently
+possess it. His view of knowledge derives from Nietzsche. His view of
+power derives from Marx." 
+#+END_QUOTE
+
+Zack Malitz:
+
+#+BEGIN_QUOTE
+"power today is not something that a small number of people possess
+and exert on everybody else, but rather a force that acts through
+every institution and relationship in society, so that our very sense
+of self is a product of its shaping force.
+
+Power, according to Foucault, is diffuse, decentralized and emanates
+from every corner of society, not just the official seats of
+government. Resistance, too, is everywhere. Everywhere that people
+refuse to cooperate with institutional authority or to uncritically
+accept established patterns of social behavior, every time they
+attempt to re-organize social relationships according to different
+principles or rhythms, they resist power.
+
+For Foucault, the proper role of an intellectual is to expose the
+machinations of power and the systems of knowledge that justify,
+naturalize or conceal the operations of power. People who face the
+business end of domination and exploitation don’t need intellectuals
+to tell them that they are oppressed — they know perfectly well. What
+they need from intellectuals is not leadership, but resources,
+technical knowledge and assistance in navigating dense webs of
+institutional power.
+
+Intellectuals act as agents of social change when they translate
+expert discourses such as law or economics into accessible
+language. Intellectuals, for Foucault, are at their best when, rather
+than telling us how the world should be, they show us that it could
+easily have been otherwise and, more importantly, that it need not
+remain the same."
+#+END_QUOTE
