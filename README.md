@@ -1,14 +1,26 @@
 # before 20190708
 
-- [ ] __sections__(all dates of 201907)
-  - [ ] ethics 07
-  - [ ] self 07
-  - [ ] exposure 07
-  - [ ] morality 07
-  - [ ] 11intro 07
-  - [ ] greece 07
-  - [ ] culture 08
-  - [ ] desire 08
+- [ ] __10. from H-o-S to genealogy of ethics __
+  - [ ] technologies of self
+  - [ ] subjectivity and experience
+  - [ ] morality and ethics
+
+- [ ] __11. genealogy of modern subject __
+  - [ ] greece (aesthetics of existence)
+  - [ ] rome (culture of self)
+  - [ ] x-tianity (hermeneutics of desire)
+
+- [ ] __12. subjectivity and power __
+  - [ ] unholy subjectivism
+  - [ ] conducting conducts
+  - [ ] iran
+
+- [ ] __13. problem of truth
+  - [ ] politics
+  - [ ] nominalism
+  - [ ] concept of problematization
+  - [ ] fiction and construction
+
 
 [comment]: # (marking this branch for master)
 
