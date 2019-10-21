@@ -1,64 +1,162 @@
 #+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
 * intro
 ** self freedom p341 top
+why are we concerned with truth
 ** p341 middle
+relationship among truth, power, and subjectivity requires analysis in
+systematic fashion
 ** p342 top
+F integrates processes of subjctivation and analysis of relations
+between knowledge and power; government links the formation of
+subjectivity to the production of truth and aims to produce tru subjectivity
 ** p342 middle
+the more government disappears behind the lawfulness of such truths
+and the necessity of their imperatives; the more force govt exercises
+"truth acts" problem of truth (up until now) F has never answered
 * politics
 ** p342 bottom
+truth regime posesses several dimensions qualifying certain discourses
+as true
 ** p343 top
+developing, constructing, authorizing
 ** p343 middle
+forms of scientific discourse and the institutions which produce it;
+dominant if not exclusive; a few great political and economic aparatuses
 ** p343 bottom
+strategies of resistance, at the point of their departures, contest
+dominant truths; F politicizes the reading of close relations between
+truth and power
 ** p344 top
+power/rationality that presents itself as general and universal in
+fact is paticularized with only partial access to the truth. Often
+dominant truths conceal central power relations in society
 ** p344 middle
+battle about the status of truth and the economic and political role
+it plays
 ** p345 fn top
+F parallelled his work and the project of the Frankfurt school
 ** p345 fn middle
+F faults members of Frankfurt school for employing traditional
+(philosophical) conception of the subject .
+human nature
 ** p345 fn bottom
+it is legitimate to accentuate the differences between Adorno and
+Horkheimer's critique of rationality and power and F's "politics of
+truth" on the other. 
 ** p346 top
+how truth is invented
 ** p346 middle
+detach power of truth from forms of hegemony
 ** p346 bottom
+i have taken a lot of time in realizing the need to clarify critical
+point in genealogy 
 * nominalism
 ** p346 bottom
+poles of universalism and relativism
 ** p347 top
+opt for or against the truth
 ** p347 middle
+historical ontology; seek out historical discontinuities and breaks in
+the order of the true
 ** p347 bottom
+how does a history of truth bear on things? ...how they exist at a
+given point; mobile system of relations and syntheses 
 ** p348 top
+the way in which linking a certain type of object to certain
+modalities of the subject; constituted the historical a priori of a
+possible experience for a period of time, an area and for given individuals;
 ** p348 middle
+F saw first error as viewing formation of objects by taking the
+subject as point of departure; 2nd mistake starts out with objects in
+order to examine subjective constitution
 ** p348 bottom
+subject and object both constituted only under certain simultaneous conditions
 ** p349 misunderstandings of game of truth
 *** regularity and order
+F stresses the regularity and orderly nature of operations: games of
+truth closely related to games of power
 *** discursive practices
+discursize pratcises; forms of experience and being
 *** possible truths
+giving up claims to truth
 ** p350 middle
+history of truth differs radically from relativistic undertakings
 ** p350 bottom
+what forms of knowledge and pratcises are responsible for madness? 
 ** p351 middle
+recognize mentally ill or essential part of himself in the modality of
+his sexual desire
 ** p352 middle
+combine philospohy and history which seeks to escape binary poles of
+universality and relativism--historical nominalism
 ** p353 top
+shift from examine objects of study to examining practices
 ** p354 top
+nothing obvious in seeking the causes of disease by examining bodies
+individually; D&P incarceration not the only form of penal practice; 
 ** p354 middle
+universals are no longer the starting point of analysis; but appear as
+the effects of historical pratcies, a system of heterogenous elements
 ** p354 bottom
+avoid tracing singularities back to universals; when elements possess
+the same ontological value, some of them become linked to each other
+and yield a whole; or are separated and stand apart
 * problematization
 ** p354 bottom
+'madness' 'sexuality' 'illness' 'delinquency' are simultaneausly real
+yet historically contingent...then the question is what objectivated
+them? (or who?)
 ** p355 top
+one attributes to a complex strategical situation in a particular society
 ** p355 middle
+the fact of bourgeois domination; a reciprocal relation of production
 ** p356 top
+archaeology engages with the forms of problematization themselves;
+genealogy examines the relationships that these forms of
+problematization entertain with determinate pratices 
 ** p356 middle
+forms themselves;  formation  out of practices and the modifications
+undergone by their genealogical dimensions
 ** p356 bottom
+connections become 'visible' and practices become thinkable
 ** p357 top
+socially routine actions
 ** p357 middle
+different things in the world gathered together
+relation between the thing which is problematized and the process of problematization
 ** p357fn
+how that which is has not always been; shown ta have a history
 ** p358 top
+answers constructed or created
 * fictionConstruction
 ** p358 middle
+ambivalence pervades F's books; like traditional historical
+works--they stick to reasoned arguments an the basis of documents,
+primary material
 ** p358 fn
+GIP prepared the ground for penal politics by problematizing
+practices, rules, and habits. 
 ** p359 top
+on the other hand, F breaks standard history--it instead posits
+historical truth as the production of experiences--especially as they
+bear on the experience of the present
 ** p359 middle
+historical truths on a theoretical plane--against "self-evidence" or 'naturalness'
 ** p359 bottom
+anti-psychiatry? no--no attack on contemporary psychiatry--but sought
+to change relations
 ** p360 top
+D&P universally read as describing contemporary society
 ** p360 middle
+they no longer know what to do
 ** p360 bottom
+tie to collective practice and social movements
 ** p361 top
+F: I am trying to provke an interference between our reality and the
+knowledge of our past history; the truth of my books is in the future
 ** p361 fn
-** p361fn
-** p361 bottom
+active construction of new truths (a la Gramsci); prediciton is
+therefore only a practical act
 ** p362 top
+the truth is therefore absent; induce the effects of truth; 'fiction'
+a politics not yet in existence on the basis of historical truths. 
