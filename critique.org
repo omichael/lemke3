@@ -1,7 +1,0 @@
-#+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
-* intro
-* genealogy
-* enlightenment
-* attitude
-* maturity
-* conclude
