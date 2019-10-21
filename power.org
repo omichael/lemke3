@@ -1,74 +1,190 @@
 #+SETUPFILE: /Users/mjo/.emacs.d/elpa/org-html-themes/setup/theme-readtheorg.setup
 * intro
 ** Weber
+"fundamental significance of the economy"
+"dependent an the ability and disposition of people"
+"rational conduct of life"
 ** p308 top
+Has F abandoned political analysis in a private frame of reference?
+private parties arrive at ethical decisions without recourse to
+intersubjective obligations--on the basis of aesthetic criteria alone
 ** p308 middle
-** p309 top
+aesthetic decisionism; aesthetic choice becomes matter of taste;
+is F's concept of ethics liberated from all functions in material
+reproduction of society?
+** p309 top(from 308 bottom)
+does subjectivity no langer stand as a dependent variable as much as it
+stands as independent fact? should one merely assume a comfortable
+position within the standing order and renounce all liberatory claims?
 * unholy
 ** p309 middle
+argument above is inaccurate for a number of reasons; F does not seek
+to separate ethical from political
+aesthetics and ethics do not represent discrete and oposing realms as
+much as single ethico-political problematic tying modern subject to
+modern state
 ** p310 middle
+self relations
 ** p311 top
+sexual repression forms an indispensable component of universal social oppression
 ** p311 middle
+sexuality did not constitute a problem in its own right--it pointed to
+another problem; F argues against conceiving power knowledge and
+subjectivity as monocausal relations of determination.
 ** p311 bottom
+analysis should not focus on codes; but must incorporate forms of
+subjectvation through which they operate
 ** p311 fn
+For a long time, (people thought) sexual codes (were) indispensable to
+capitalist societies; yet lifting of codes and dislocation of
+prohibitions was easy.
 ** p312 top
+actors in social movements may ultimately embrace what the seek to
+free themselves from
 ** p312 middle
+starting point for protest: art of living versus science of life
 ** p312 bottom
+subjectivity is an artificial and technical construction
 ** p313 middle
+in contrast to code-based moralities; "aesthetics of existence" is a
+form of subjetivation that follows the principle of freedom and
+understands existence as ongoing work on the self
 ** p314 fn
+coordination and regulation of conflict *conflict theory
 ** p315 top
+"idea of morality as obedience to code of rules is now disappearing,
+has already disappeared...to this absence the search for an aesthetics
+of existence..." attempts to fill the void.
 * conductingConducts
 ** p316 top
+interplay betwx technologies of self and technologies of domination
 ** p316 middle
+"conduct" is at the same time to "lead" others
 ** p317 power relations involve
 *** consent
+what motivates consensus? is it necessary to reveal conditions of acceptability
 *** force
+violence/force occurs directly and affects bodies. action on
+actions..a set of actions upon other actions
 ** p318 top
+indeterminate: much as openness and incompleteness that characterize
+relations of power
+domination never completely exhaustive or coercive
 ** p318 middle
+material carrier of power relation
 ** p318 bottom
+freedom also stands opposed to power and resists it. freedom is an
+indispensable element of power relations
 ** p319top
+there's a difference between power and domination
 * power and domination
 ** p319 middle
+future beyond power; political utopias cannot lay claim to a site
+outside of power relations; institutional apparatuses produce
+phenomena of domination in the first place.
 ** p319 bottom
+F wanted to analyze power not from above but from below
 ** p320 top
+reproduction of domination 
 ** p320 middle
+F distinguishes between 'free' forms of power and those that shut dow
+possible (re) actions
+a society without power relations can only be an abstraction
 ** p320 bottom
+not limited to political sphere or concentrated in specific instituions
 ** p321 top
+difference between strategic games of power and states of domination
+(rigid, immobile, unyielding)
 ** p321 middle
+government is intermediate term between power and domination
 ** p322 top
+3 levels of power to analyze: strategic relations; techniques of
+gov't; and states of domination
 ** p322 middle
+F conducted a critical inquiry into potential or actual effects of domination
 ** p322 bottom
+F distinguishes between 'freer' and less fre eforms of power
 ** p323 top
+ morality, ethos, practice of self will allow us to play these games
+ of power with as little domination as possible
 ** p323 middle
+government, at times, refers to power per se
 * freedom and forms of resistance
 ** p324top
+self ethics simultaneously invalves shaping and modelling freedom
 ** p324 middle
+practice of self-definition
 ** p324 bottom
+the guarantee of freedom is freedom
 ** p325 top
+ways subjects govern themselves and others; subjugated ad form
+themselves at one and the same time
 ** p325 middle
+possibility of resistence
+the madman is not unfree inasmuch as he is constituted in relation to
+and over against the one who declares him mad; construction of
+homosexual 
+subject rrperpesents a means of oppression, but also offers potential
+for resistence.
 ** p326 top
+affirmative strategy and resistennce
 ** p326 fn
+dialectics in describing struggles in a concrete manner; equally
+categories of defence (at the same time a cage and a trap)
 ** p327 top
+explotation and domination entertain complex and circular relations
+with other forms 
 ** p327 bottom
+government of individualization
 ** p328 top
+resistence to standing forms of subjectivation is not just reactive
+and the means to a (future) end...it is an end in itself and a
+self-grounding
+praxis; 
 ** p328 middle
+a madman can no longer bear being confined and humiliated; a
+people refuses the regime that oppresses it.
 ** p328 bottom
+elaboration of ethics is already part of resistance 
 ** p329 middle
+analysis of governmentality and ethics defined by relationship of self
+to self;... a chain, a thread
 ** p329 bottom
+iranian revolution connects questions of resisteance and domination
 * iran
 ** collective will
 ** spirituality
 *** p335 middle
+new form of gov't under another regime of truth;
+"most general of political problems: the problem of truth; political spirituality
 *** p335 bottom
+vocabulary in which conflict is carried out and lived; religion is the very way of
+experiencing revolt
 *** p336 top
+religuous structures as centers of resistence; but also as sources for
+political creation
 *** p336 middle
+religious character and specificity of revolutionary events; changing conditions
 *** p336 fn
+islam would secure human rights
 *** p337 top
+religion is the spirit of a world without spirit
 ** without a spirit
 *** p337 bottom
+revolt instead of revolution
 *** p338 middle
+radical breaks and changes
 *** p339 top
+Kant..saw as a key feature of French revolution the moral disposition
+political and social breaks expressed; signs of progress
 *** p339 middle
+every revolt suggests progress; but it is not progress itself
 *** p339 bottom
+IR was historical event F tried to understand
 *** p340 top
+permanent potentiality that cannot be forgotten
 *** p340 middle
+F seeks to make the pressure to take sides an object of analysis;
+substance of revolts--people do revolt--that is a fact.
+
+
